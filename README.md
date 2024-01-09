@@ -75,5 +75,17 @@ ssh-keygen -t rsa
 cat ~/.ssh/id_rsa.pub
 
 ```
+Place the generated keys in "terraform/modules/vm/vm.tf" under the "admin_ssh_key" section.
+
+### To execute Terraform:
+
+1. Create a new project.
+2. Generate a Personal Access Token (PAT) and retain it for later use.
+3. Establish a new service connection.
+4. Create an agent pool with access to all pipelines and add this agent to a virtual machine.
+5. Create an environment and assign it to a different virtual machine than the one used in the previous step.
+6. Finally, create a new pipeline by selecting the GitHub repository, and for the YAML configuration, choose "azure-pipelines.yaml."
+
+
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
