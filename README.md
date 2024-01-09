@@ -77,7 +77,18 @@ cat ~/.ssh/id_rsa.pub
 ```
 Place the generated keys in "terraform/modules/vm/vm.tf" under the "admin_ssh_key" section.
 
-### To execute Terraform:
+5. Run Terraform
+
+Use the following commands: 
+
+```
+terraform init
+terraform validate
+terraform apply
+```
+Your results should look somewhat like this
+
+### Pipeline Development:
 
 1. Create a new project.
 2. Generate a Personal Access Token (PAT) and retain it for later use.
