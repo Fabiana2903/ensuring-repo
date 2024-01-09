@@ -39,6 +39,16 @@ To begin, update the variables specified in the "packer-image.json" file. Replac
 - Image Name
 - VM Size
 
+```
+    "subscription_id": "",
+    "tenant_id": "",
+    "client_id": "",
+    "client_secret": "",   
+    "resource_group_name": "",
+    "image_name": "",
+    "vm_size": ""
+```
+
 Once this is done, run the following command to create a packer image: 
 ```
 packer build ./packer-image.json
@@ -47,7 +57,23 @@ packer build ./packer-image.json
 
 ![imagen](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/bbb22a89-1dec-48d6-9dd4-c4f800233b9c)
 
+3. Next, configure the storage account and state backend. Initially, run the script named "create-tf-storage.sh" using the following command:
 
+```
+bash configure-tfstate-storage-account.sh
+```
+![imagen](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/c3d7d70e-371d-45ab-aff3-e039ecce15e8)
 
+4. Then, replace the values in the "terraform/main.tf" file with the output obtained from running the "create-tf-storage.sh" script. Update the backend configuration in the "terraform.tfvars" file.
+
+![imagen](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/4a0cb48d-019d-4bf3-9f5c-4f33c04f476c)
+
+Generate SSH keys in the Azure command shell using the commands:
+
+```
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
+
+```
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
