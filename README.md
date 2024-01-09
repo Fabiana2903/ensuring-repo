@@ -24,5 +24,9 @@ These are the step by step process followed to complete this project:
 
 1. Log in to your Azure account. This can be achieved through your preferred terminal, such as the Command Prompt (cmd). Utilize the following command to log in:
 
+```
+az login 
+```
+
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
