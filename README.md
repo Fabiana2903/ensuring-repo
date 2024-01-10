@@ -129,6 +129,8 @@ The pipeline consists of the following steps:
 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/eae83bbc-511a-440d-b364-3d23b2ce5d64)
 
+- Regression Test
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/1b670f8f-4861-4e0f-a34c-ce5867f3880b)
 
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
