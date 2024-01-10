@@ -99,6 +99,22 @@ Your results should look somewhat like this
 5. Create an environment and assign it to a different virtual machine than the one used in the previous step.
 6. Finally, create a new pipeline by selecting the GitHub repository, and for the YAML configuration, choose "azure-pipelines.yaml."
 
+Update the Terraform variables with those created in the preceding steps.
+```
+variables:
+  python.version: ''
+  azureServiceConnectionId: ''
+  projectRoot: $(System.DefaultWorkingDirectory)
+  environmentName: ''
+  tfstatenumber: '' 
+  tfrg: ''
+  application_type: ''  
+```
+The pipeline consists of the following steps:
+
+- Build the FakeRestAPI artifact by archiving the entire FakeRestAPI directory into a zip file.
+- Deploy the FakeRestAPI to the Azure App Service created by Terraform.
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/dbeda946-f085-4e45-b30d-02ab000b46d9)
 
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
