@@ -124,5 +124,11 @@ The pipeline consists of the following steps:
 - Performance testing using JMeter with stress and endurance tests.
 - Functional UI testing using Selenium.
 
+#### Postman 
+- Data Validation Test
+
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/eae83bbc-511a-440d-b364-3d23b2ce5d64)
+
+
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
