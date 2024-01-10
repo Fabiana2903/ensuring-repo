@@ -116,5 +116,13 @@ The pipeline consists of the following steps:
 - Deploy the FakeRestAPI to the Azure App Service created by Terraform.
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/dbeda946-f085-4e45-b30d-02ab000b46d9)
 
+## Automated testing
+
+### Automated testing includes:
+
+- Integration testing using Postman with data validation and regression tests.
+- Performance testing using JMeter with stress and endurance tests.
+- Functional UI testing using Selenium.
+
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
