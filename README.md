@@ -139,6 +139,10 @@ The pipeline consists of the following steps:
 Report 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0df0b3be-4dea-426b-85b4-2c4e7a0577f7)
 
+- Endurance Test
+<img width="472" alt="image" src="https://github.com/Fabiana2903/ensuring-repo/assets/149669704/4c2d9fbd-5804-4825-88db-f99f7a061da9">
+
+Report 
 
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
