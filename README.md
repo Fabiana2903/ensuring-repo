@@ -87,6 +87,8 @@ terraform validate
 terraform apply
 ```
 Your results should look somewhat like this
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/36bcd3c6-acc5-4742-934f-02e4fa6f07f3)
+
 
 ### Pipeline Development:
 
