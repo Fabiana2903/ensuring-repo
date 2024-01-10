@@ -132,5 +132,12 @@ The pipeline consists of the following steps:
 - Regression Test
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/1b670f8f-4861-4e0f-a34c-ce5867f3880b)
 
+#### JMeter Performance Testing 
+- Stress Test
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/cb820a14-fe38-4d5e-ac7c-3721084933e1)
+
+Report 
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/12150548-7bdb-4879-9aca-9cec088c3b35)
+
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
