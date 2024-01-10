@@ -140,9 +140,10 @@ Report
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0df0b3be-4dea-426b-85b4-2c4e7a0577f7)
 
 - Endurance Test
-<img width="472" alt="image" src="https://github.com/Fabiana2903/ensuring-repo/assets/149669704/4c2d9fbd-5804-4825-88db-f99f7a061da9">
+<img width="415" alt="image" src="https://github.com/Fabiana2903/ensuring-repo/assets/149669704/b02b3493-966c-40c5-aa4b-aa9faf0aa1e7">
 
 Report 
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/e0cfac07-5879-4cc5-a795-5103a75033d7)
 
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
