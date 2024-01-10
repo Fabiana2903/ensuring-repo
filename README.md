@@ -137,7 +137,8 @@ The pipeline consists of the following steps:
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/cb820a14-fe38-4d5e-ac7c-3721084933e1)
 
 Report 
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/12150548-7bdb-4879-9aca-9cec088c3b35)
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0df0b3be-4dea-426b-85b4-2c4e7a0577f7)
+
 
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
