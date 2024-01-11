@@ -142,9 +142,11 @@ Report
 - Endurance Test
   ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/3de957f1-74df-4de5-8998-8e1a39f4edba)
 
-
 Report 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/e0cfac07-5879-4cc5-a795-5103a75033d7)
+
+#### Functional Testing with Selenium 
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0f9f9029-e64a-451a-a242-b3db578cf024)
 
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
