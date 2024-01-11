@@ -148,5 +148,9 @@ Report
 #### Functional Testing with Selenium 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0f9f9029-e64a-451a-a242-b3db578cf024)
 
+Example of the Pipeline execusion 
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/219a7444-c738-4547-b956-9766267fed83)
+
+
 ## Suggestions and Corrections
 Feel free to submit PRs to this repo should you have any proposed changes. 
