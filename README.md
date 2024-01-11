@@ -127,14 +127,16 @@ The pipeline consists of the following steps:
 #### Postman 
 - Data Validation Test
 
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/eae83bbc-511a-440d-b364-3d23b2ce5d64)
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/d59ea960-017d-4576-9b32-288ef53ff2fc)
+
 
 - Regression Test
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/1b670f8f-4861-4e0f-a34c-ce5867f3880b)
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/503d456c-8887-449d-b8ec-19cb30a1142f)
+
 
 #### JMeter Performance Testing 
 - Stress Test
-![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/cb820a14-fe38-4d5e-ac7c-3721084933e1)
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/bc94589a-0a1b-4ddc-9183-842c24824791)
 
 Report 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/0df0b3be-4dea-426b-85b4-2c4e7a0577f7)
