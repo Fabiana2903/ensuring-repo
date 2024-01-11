@@ -146,10 +146,25 @@ Report
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/e0cfac07-5879-4cc5-a795-5103a75033d7)
 
 #### Functional Testing with Selenium 
-
-
 Example of the Pipeline execusion 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/219a7444-c738-4547-b956-9766267fed83)
+
+### Monitoring and Observability
+- Go to Azure Pipelines and go to the observability monitor, create a new alert. Execute the pipeline to trigger the alert.
+Picture of the Monitor Chart 
+<img width="526" alt="image" src="https://github.com/Fabiana2903/ensuring-repo/assets/149669704/075be810-c548-4dbd-b92a-02446934095d">
+Picture of the email alert
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/4d041efc-cad1-42ab-905a-a12d39c39ac6)
+
+- Configure azure log analytics by downloading the selenium-test.log artifact from Azure Devops
+- Navigate to the Azure Portal and access Azure Log Analytics workspaces.
+- Configure an agent on the virtual machine in order to run the Slenium tests. Make sure the VM is connected tp capture the necessary logs. 
+- Navigate to the Logs section and initiate the creation of a custom log.
+- Specify the path of the selenium-test.log from the VM where the task was executed as the collection path for logs.
+
+#### Custom Logs 
+- Go to the logs section in the general group part of your logs analytics and select and run your custom log. 
+![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/8786a976-9178-426b-b6d2-4e02be4b0cd2)
 
 
 ## Suggestions and Corrections
