@@ -152,11 +152,13 @@ Example of the Pipeline execusion
 ### Monitoring and Observability
 - Go to Azure Pipelines and go to the observability monitor, create a new alert. Execute the pipeline to trigger the alert.
 
-Picture of the Monitor Chart 
+#### Picture of the Monitor Chart 
+
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/5db3944a-6dbf-497a-b225-ba501dadbd9c)
 
 
-Picture of the email alert
+#### Picture of the email alert
+
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/4d041efc-cad1-42ab-905a-a12d39c39ac6)
 
 - Configure azure log analytics by downloading the selenium-test.log artifact from Azure Devops
