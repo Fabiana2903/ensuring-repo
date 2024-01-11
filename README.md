@@ -177,6 +177,3 @@ Example of the Pipeline execusion
 - Go to the logs section in the general group part of your logs analytics and select and run your custom log. 
 ![image](https://github.com/Fabiana2903/ensuring-repo/assets/149669704/8786a976-9178-426b-b6d2-4e02be4b0cd2)
 
-
-## Suggestions and Corrections
-Feel free to submit PRs to this repo should you have any proposed changes. 
